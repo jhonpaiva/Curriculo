@@ -1,0 +1,76 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    background-color: #0e0e0e;
+}
+.tudo {
+    margin-top: 2%;
+    margin-left: 20%;
+    width: 60%;
+    display: inline-flex;
+    border: 1px solid #000;
+    border-radius: 4px;
+    background-color: #f0f0f0;
+}
+#icone {
+    border-radius: 50%;
+    width: 70%;
+    height: 120px;
+    margin: 10% 1% 50% 18%;
+}
+.esquerda {
+    background-color: #2c323e;
+    height: 30%;
+    padding: 7%;
+    color: #b7b7bc;
+}
+.social {
+    display: block;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    border-radius: 50%;
+}
+.direita {
+    padding: 7%;
+    padding-right: 5%;
+    color: #2c323e;
+}
+.cabecalho {
+    text-align: center ;
+}
+.periodo {
+    display: block;
+    padding: 2%;
+}
+.descricao {
+    display: block;
+    text-align: left;
+}
+.experiencia-corpo {
+    display: inline-flex;
+}
+.habilidades-lista {
+    display: inline-flex;
+}
+.itens-1 {
+    display: inline-block;
+}
+.itens-2 {
+    padding: 5%;
+    display: inline-block;
+}
+.botoes {
+    display: inline-block;
+    padding-left: 70%;
+    padding-top: 2%;
+}
+.botao {
+    border: none;
+}
+.botao:hover {
+    border-radius: 50%;
+    background-color: #2c323e;
+}
