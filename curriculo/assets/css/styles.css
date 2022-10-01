@@ -22,7 +22,6 @@ body {
     padding: 5%;
     padding-top: 9%;
 }
-
 .icon {
     border-radius: 50%;
     width: 100%;
@@ -42,14 +41,6 @@ body {
     padding-left: 0;
 }
 
-
-
-
-
-
-
-
-
 /* LADO DIREITO */
 
 .direita {
@@ -59,33 +50,26 @@ body {
     padding-top: 7%;
     background-color: #f0f0f0;
 }
-
 .nome {
     text-align: center;
     padding-bottom: 10%;
     padding-top: 10%;
 }
-
 .direita h2 {
     padding-top: 20%;
     padding-bottom: 3%;
 }
-
-
 .dados-experiencia {
     display: flex;
     justify-content: space-between;
 }
-
 .data-inst {
     margin-right: 5%;
 }
-
 .bloco-habilidades {
     display: flex;
     justify-content: space-around;
 }
-
 .redes {
     display: flex;
     justify-content: flex-end;
